@@ -21,7 +21,7 @@ I'm Rajnandini Musale, a passionate frontend development enthusiast, gamer, and 
 - 🔹 **To-Do List Manager**: A web app for managing personal tasks efficiently.
 
 📊 **GitHub Stats**
-![Rajnandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RajnandiniMusale&show_icons=true&theme=radical)
+![Rajnandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajnandini1005&show_icons=true&theme=radical)
 
 📫 **Connect with Me**
 - 💼 [LinkedIn](#)
